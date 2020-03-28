@@ -1,0 +1,346 @@
+,text,predicted_text,start_pos,end_pos,predicted_start_pos,predicted_end_pos
+0,Viking,""" norseman, viking """,97,97,93,98
+1,9th century,9th century,90,91,90,91
+3,9th century,9th century,90,91,90,91
+4,Norman mercenary,norman mercenary origin,19,20,19,21
+5,Byzantine Greece,byzantine greece,16,17,16,17
+6,George Maniaces,george maniaces,93,95,93,95
+7,Sicilian expedition,sicilian expedition,98,99,98,99
+8,1185,1185,32,33,32,33
+10,the Adriatic,the adriatic,71,72,71,72
+11,Norman army,a large norman army,38,39,36,39
+12,high Byzantine officials,high byzantine officials,46,48,46,48
+13,Dyrrachium,dyrrachium,38,42,38,42
+14,Hereford,hereford,39,39,39,39
+16,Edward the Confessor,edward the confessor,25,28,25,28
+17,Normans,normans,23,24,23,24
+18,Ralph,ralph,37,37,37,37
+19,Wales,wales,70,70,70,70
+20,the Marches,the marches,20,21,20,21
+22,1018,1018,63,64,63,64
+23,William of Montreuil,william of montreuil,102,106,102,106
+24,Antioch,antioch,42,42,42,42
+26,Roger de Tosny,roger de tosny,60,64,60,64
+27,the War of Barbastro,"religious wars long before the first crusade carved out a norman principality in antioch. they were major foreign participants in the reconquista in iberia. in 1018, roger de tosny travelled to the iberian peninsula to carve out a state for himself from moorish lands, but failed. in 1064, during the war of barbastro",89,94,24,94
+28,380 years,380 years,45,46,45,46
+29,Cyprus,the conquest of cyprus,16,16,13,16
+31,Africa,africa,69,69,69,69
+32,Jean de Bethencourt and the Poitevine Gadifer de la Salle,jean de bethencourt and the poitevine gadifer de la salle,26,41,26,41
+34,Bethencourt,bethencourt,11,13,11,13
+36,Maciot de Bethencourt,maciot de bethencourt,36,41,36,41
+37,King of the Canary Islands,king of the canary islands,20,24,20,24
+38,Maciot de Bethencourt,maciot de bethencourt,43,48,43,48
+39,Romanesque,romanesque,33,33,33,33
+40,rounded,rounded,69,69,69,69
+41,rounded arches,rounded,71,72,71,71
+44,Sicily,sicily,71,71,71,71
+47,Normans,the normans,47,48,46,48
+48,16th century,16th century,17,18,17,18
+50,French Revolution,french revolution,22,23,22,23
+51,embroidery,embroidery,42,42,42,42
+52,Bayeux Tapestry,bayeux tapestry,24,26,24,26
+53,Odo,"odo, the bishop of bayeux and first earl of kent",37,38,37,49
+54,the Bayeux Tapestry,bayeux tapestry,21,24,22,24
+55,Odo,odo,43,44,43,44
+56,southern Italy,southern italy,50,51,50,51
+57,Latin monastery at Sant'Eufemia.,sant'eufemia,73,81,76,80
+58,Robert Guiscard,robert guiscard,60,63,60,63
+59,singing,singing,24,24,24,24
+61,Computational complexity theory,computational complexity theory,22,24,22,24
+62,inherent difficulty,inherent difficulty,40,41,40,41
+65,Computational complexity theory,computational complexity theory,22,24,22,24
+66,computational problem,a computational problem,60,61,59,61
+68,algorithm,algorithm,91,91,91,91
+69,problem instance,"a problem instance is a string over an alphabet. usually, the alphabet is taken to be the binary alphabet ( i. e., the set { 0, 1 } ), and thus the strings are bitstrings",24,25,23,67
+71,bitstrings,bitstrings,60,63,60,63
+72,binary notation,"suitably encoded. for example, integers can be represented in binary notation, and graphs can be encoded directly via their adjacency matrices",101,102,89,116
+73,adjacency matrices,adjacency matrices,105,109,105,109
+75,binary alphabet,"string over an alphabet. usually, the alphabet is taken to be the binary alphabet",42,43,28,43
+76,bitstrings,bitstrings,61,64,61,64
+77,integers,integers,93,93,93,93
+78,"via their adjacency matrices, or by encoding their adjacency lists in binary.",their adjacency matrices,99,118,100,105
+79,arbitrary graph,an arbitrary graph,32,33,31,33
+80,formal language,formal language,52,53,52,53
+82,arbitrary graph.,the following. the input is an arbitrary graph,32,34,25,33
+83,formal language,formal language,53,54,53,54
+85,one has to decide how graphs are encoded as binary strings.,to decide how graphs are encoded as binary strings,74,85,76,84
+86,a computational problem,"computational problem where a single output ( of a total function ) is expected for every input, but the output is more complex than that of a decision problem, that is, it isn't just yes or no. notable examples include the traveling salesman problem and the integer factorization problem",15,17,16,71
+87,a single output,single,23,25,24,24
+89,the integer factorization problem,integer factorization problem,75,79,76,79
+90,complex,"complex answer? [SEP] a function problem is a computational problem where a single output ( of a total function ) is expected for every input, but the output is more complex than that of a decision problem, that is, it isn't just yes or no",14,14,14,64
+91,A function problem,a function problem,17,19,17,19
+92,A function problem,a function problem,18,20,18,20
+94,the traveling salesman problem and the integer factorization problem.,the traveling salesman problem and the integer factorization problem,63,73,63,72
+95,complex,"complex answer? [SEP] a function problem is a computational problem where a single output ( of a total function ) is expected for every input, but the output is more complex than that of a decision problem, that is, it isn't just yes or no",14,14,14,64
+97,set of triples,triples,73,76,75,76
+98,function problems,function problems,21,22,21,22
+99,the set of triples,triples,67,71,70,71
+100,Deciding whether a given triple is a member of this set,deciding,91,101,91,91
+101,Cobham's thesis,cobham,108,112,108,109
+102,the time taken,the time,29,31,29,30
+105,polynomial time algorithm,a polynomial time,102,104,101,103
+107,Cobham's thesis,cobham,110,114,110,111
+110,polynomial time algorithm,polynomial time,104,106,104,105
+111,complexity classes,complexity classes,20,21,20,21
+113,"probabilistic Turing machines, non-deterministic Turing machines","deterministic turing machines, probabilistic turing machines, non - deterministic turing machines, quantum turing machines, symmetric turing machines and alternating turing machines",39,52,33,64
+114,"to define complexity classes,",define complexity classes,20,24,21,23
+118,random access machines,random access machines,44,46,44,46
+120,time and memory,time and memory,61,63,61,63
+121,the machines operate deterministically,deterministically,86,92,89,92
+122,random access machines.,random access machines,45,48,45,47
+124,time and memory,time and memory,64,66,64,66
+125,that the machines operate deterministically.,that the machines operate deterministically,76,84,76,83
+126,complexity resources,complexity,33,34,33,33
+127,computational resource,computational,46,47,46,46
+128,Blum complexity axioms,the blum complexity axioms,53,57,52,57
+129,Complexity measures,"computational resource. complexity measures are very generally defined by the blum complexity axioms. other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity",46,47,43,77
+131,Analogous definitions,analogous definitions,11,12,11,12
+132,time and space,time and space,21,23,21,23
+133,by the Blum complexity axioms.,by the blum complexity axioms,49,56,49,55
+134,"include communication complexity, circuit complexity, and decision tree complexity.","communication complexity, circuit complexity, and decision tree complexity",67,78,68,77
+135,complexity measures,"computational resource. complexity measures are very generally defined by the blum complexity axioms. other complexity measures used in complexity theory include communication complexity, circuit complexity, and decision tree complexity",47,48,44,78
+136,"best, worst and average","the best, worst and average",15,19,14,19
+138,time,time complexity,29,29,29,30
+140,"best, worst and average","the best, worst and average",15,19,14,19
+141,"best, worst and average","the best, worst and average case complexity",14,18,13,20
+142,time,time complexity,30,30,30,31
+143,inputs,"best, worst and average case complexity refer to three different ways of measuring the time complexity ( or any other complexity measure ) of different inputs of the same size. since some inputs of size n",47,47,21,58
+144,deterministic sorting algorithm quicksort,quicksort,25,32,30,32
+145,worst-case,worst - case is when the input is sorted or sorted in reverse order,50,52,50,63
+147,deterministic sorting algorithm quicksort,quicksort,26,33,31,33
+148,solves the problem of sorting a list of integers that is given as the input.,sorting a list of integers that is given as the input,30,46,35,45
+151,best case,best case,122,123,122,123
+152,big O notation,big o notation,23,25,23,25
+153,constant factors and smaller terms,constant factors and smaller terms,25,29,25,29
+155,the computational model,the specific details of the computational model,48,50,44,50
+156,Upper and lower bounds,upper and lower bounds,13,16,13,16
+157,big O notation,big o notation,21,23,21,23
+159,T(n) = O(n2),write t ( n ) = o ( n2,90,99,89,98
+160,complexity classes,some complexity classes,17,18,16,18
+161,framework,this framework,25,25,24,25
+162,complicated definitions,definitions,24,25,25,25
+163,complicated definitions,definitions,17,18,18,18
+164,complexity classes,complexity classes,20,21,20,21
+165,framework,this framework,26,26,25,26
+166,complicated definitions,definitions,22,23,23,23
+167,time or space,the time or space,28,30,27,30
+169,complexity classes,complexity classes,22,23,22,23
+170,Many important complexity classes,many important complexity classes,18,21,18,21
+171,time or space,the time or space,29,31,28,31
+172,bounding,bounding the time or space,24,25,24,29
+174,"BPP, ZPP and RP","bpp, zpp and rp",26,33,26,33
+175,Boolean,boolean,49,50,49,50
+176,quantum,quantum,72,72,72,72
+177,#P,# p,69,70,69,70
+178,Interactive,interactive,93,93,93,93
+179,"BPP, ZPP and RP","bpp, zpp and rp, which are defined using probabilistic turing machines ; ac and nc, which are defined using boolean circuits ; and bqp and qma, which are defined using quantum turing machines. # p is an important complexity class of counting problems",16,23,16,73
+181,are defined using quantum Turing machines.,quantum turing machines,60,66,63,65
+182,#P,# p,65,66,65,66
+183,Interactive proof systems,interactive proof systems,90,92,90,92
+184,time and space hierarchy theorems,the time and space hierarchy theorems,14,19,13,19
+185,EXPTIME,exptime,50,52,50,52
+186,PSPACE,pspace,65,66,65,66
+187,The time and space hierarchy theorems,the time and space hierarchy theorems,16,22,16,22
+188,for most separation results of complexity classes.,most separation results of complexity classes,27,34,28,33
+189,P,p,40,40,40,40
+191,Ladner,ladner,23,24,23,24
+193,graph isomorphism problem,"the graph isomorphism problem, the discrete logarithm problem and the integer factorization problem",60,63,59,77
+194,Ladner,ladner,31,32,31,32
+196,graph isomorphism problem,"the graph isomorphism problem, the discrete logarithm problem and the integer factorization problem",60,63,59,77
+197,"The graph isomorphism problem, the discrete logarithm problem and the integer factorization problem","the graph isomorphism problem, the discrete logarithm problem and the integer factorization problem",51,69,51,69
+198,co-NP,co - np,19,21,19,21
+199,reversed,reversed,44,44,44,44
+200,not equal,not equal,56,57,56,57
+202,co-NP,co - np,18,20,18,20
+203,reversed,reversed,44,44,44,44
+204,not equal,not equal to co - np,58,59,58,63
+206,L,l,24,24,24,24
+207,strictly contained in P or equal to P,equal,46,53,51,51
+209,NL and NC,nl and nc,60,62,60,62
+211,L,l,25,25,25,25
+212,strictly contained in P or equal to P.,equal,42,50,47,47
+214,NL and NC,nl and nc,60,62,60,62
+217,Alan Turing,alan turing,63,64,63,64
+218,Turing machines,turing machines,44,45,44,45
+219,1936,1936,59,59,59,59
+220,a computer,a very robust and flexible simplification of a computer,70,71,61,71
+221,foundations,foundations,27,27,27,27
+223,Alan Turing,alan turing,54,55,54,55
+224,Turing machines,turing machines,45,46,45,46
+225,computer,a computer,74,74,73,74
+226,On the Computational Complexity of Algorithms,""" on the computational complexity of algorithms """,45,50,44,51
+227,Juris Hartmanis and Richard Stearns,juris hartmanis and richard stearns,52,58,52,58
+228,1965,1965,64,64,64,64
+229,time and space,time and space complexity,68,70,68,71
+231,On the Computational Complexity of Algorithms,""" on the computational complexity of algorithms """,40,45,39,46
+232,Juris Hartmanis and Richard Stearns,juris hartmanis and richard stearns,47,53,47,53
+233,On the Computational Complexity of Algorithms,""" on the computational complexity of algorithms """,44,49,43,50
+235,John Myhill,john myhill,28,30,28,30
+236,1961,1961,61,61,61,61
+237,Hisao Yamada,hisao yamada,72,75,72,75
+238,John Myhill's,john myhill,28,32,28,30
+239,John Myhill's,john myhill,28,32,28,30
+240,1961,1961,60,60,60,60
+241,Hisao Yamada,hisao yamada,64,67,64,67
+242,Boris Trakhtenbrot,boris trakhtenbrot,83,88,83,88
+243,input encoding,input encoding,38,39,38,39
+244,encoding,input encoding,39,39,38,39
+246,input encoding,input encoding,38,39,38,39
+247,complexity-theoretic theorems,some proofs of complexity - theoretic theorems,20,26,16,26
+248,encoding,input encoding,38,38,37,38
+249,Southern California Megaregion,greater southern california megaregion,35,38,34,38
+250,11,11,36,36,36,36
+251,Nevada,"las vegas, nevada, and south across the mexican border into tijuana",66,66,63,77
+252,Mexican,mexican border,64,64,64,65
+253,Tijuana,tijuana,75,77,75,77
+254,Southern California,greater southern california,30,31,29,31
+255,"east into Las Vegas, Nevada, and south across the Mexican border into Tijuana.",tijuana,54,71,68,70
+256,megaregions,11 megaregions,36,38,35,38
+258,Colorado Desert,colorado desert,20,21,20,21
+259,Mojave Desert,mojave desert,34,37,34,37
+260,Mexico–United States border,mexico – united states border,50,54,50,54
+261,Colorado Desert,colorado desert,16,17,16,17
+262,Mojave Desert,"colorado desert and the colorado river at the border with arizona, and the mojave desert",30,33,16,33
+263,south,south,45,45,45,45
+264,California,southern california,19,19,18,19
+265,"3,792,621","3, 792, 621",41,47,41,47
+266,Los Angeles,los angeles and san diego,19,20,19,23
+267,San Diego,los angeles and san diego,24,25,21,25
+268,south,south,73,73,73,73
+269,Los Angeles and San Diego,los angeles and san diego,23,27,23,27
+270,Los Angeles,los angeles and san diego,23,24,23,27
+271,San Diego,los angeles and san diego,25,26,22,26
+272,San Diego,san diego,24,25,24,25
+273,Los Angeles,los angeles,31,32,31,32
+274,United States,united states,46,47,46,47
+276,15,top 15,54,54,53,54
+278,"Los Angeles, Orange, San Diego, San Bernardino, and Riverside","los angeles, orange, san diego, san bernardino, and riverside",17,29,17,29
+279,15,top 15,42,42,41,42
+281,Hollywood,hollywood,38,38,38,38
+282,Los Angeles,los angeles,24,25,24,25
+283,The Walt Disney Company,walt disney company,50,53,51,53
+284,music,music industry,28,28,28,29
+286,The Walt Disney Company,walt disney company,51,54,52,54
+287,"The motion picture, television, and music industry","motion picture, television, and music industry",10,18,11,18
+289,"The Walt Disney Company (which also owns ABC), Sony Pictures, Universal, MGM, Paramount Pictures, 20th Century Fox, and Warner Brothers.",the walt disney company,54,82,54,57
+290,Palm Springs,palm springs,30,31,30,31
+291,beaches,popular beaches,29,29,28,29
+292,southern,southern,18,18,18,18
+293,open spaces,nearby open spaces,45,46,44,46
+294,Many locals and tourists,many locals and tourists,10,13,10,13
+295,its resort feel and nearby open spaces.,resort feel and nearby open spaces,36,43,37,42
+296,southern,"southern california coast for its popular beaches, and the desert city of palm springs",15,15,15,29
+297,Los Angeles Times,los angeles times,12,14,12,14
+298,1900,1900,13,13,13,13
+300,Imperial,imperial —,58,58,58,59
+301,seven,seven,28,28,28,28
+302,"as including ""the seven counties of Los Angeles, San Bernardino, Orange, Riverside, San Diego, Ventura and Santa Barbara.""","including "" the seven counties of los angeles, san bernardino, orange, riverside, san diego, ventura and santa barbara. """,24,49,25,49
+303,Imperial,a newer county — imperial —,64,64,60,65
+304,southern California,southern california,18,19,18,19
+305,Mediterranean,mediterranean,15,15,15,15
+306,infrequent rain,rain,28,32,32,32
+307,60's,90 - 60's,64,66,62,66
+308,very rare,very rare,88,89,88,89
+310,Mediterranean climate,mediterranean,14,15,14,14
+311,Southern California,"southern california contains a mediterranean climate, with infrequent rain and many sunny days. summers are hot and dry, while winters are a bit warm or mild and wet. serious rain can occur unusually. in the summers, temperature ranges are 90 - 60's",12,13,12,64
+312,Southern California,"southern california contains a mediterranean climate, with infrequent rain and many sunny days. summers are hot and dry, while winters are a bit warm or mild and wet. serious rain can occur unusually. in the summers, temperature ranges are 90 - 60's while as winters are 70 - 50's",11,12,11,72
+313,snow,snow,85,85,85,85
+315,Pacific Ocean,"pacific ocean islands, shorelines, beaches, and coastal plains, through the transverse and peninsular ranges",54,55,54,72
+319,"varied collections of geologic, topographic, and natural ecosystem landscapes in a diversity","geologic, topographic, and natural ecosystem landscapes",19,32,22,29
+320,Pacific Ocean,"pacific ocean islands, shorelines, beaches, and coastal plains, through the transverse and peninsular ranges with their peaks, into the large and small interior valleys, to the vast deserts of california",50,51,50,86
+321,Pacific Ocean,"pacific ocean islands, shorelines, beaches, and coastal plains, through the transverse and peninsular ranges with their peaks, into the large and small interior valleys, to the vast deserts of california",50,51,50,86
+322,Southern California,southern california,14,15,14,15
+323,"10,000","10, 000",22,24,22,24
+324,small,"10, 000 earthquakes. nearly all of them are so small that they are not felt. only several hundred are greater than magnitude 3. 0, and only about 15 – 20 are greater than magnitude 4. 0. the magnitude 6. 7 1994 northridge earthquake was particularly destructive, causing a substantial number of deaths, injuries, and structural collapses. it caused the most property damage of any earthquake in u. s. history, estimated at over $ 20 billion",35,35,24,114
+325,6.7,6. 7,65,67,65,67
+326,property damage,"property damage of any earthquake in u. s. history, estimated at over $ 20 billion",100,101,100,117
+327,$20 billion,$ 20 billion,110,112,110,112
+328,1994,1994,74,74,74,74
+329,Northridge earthquake,1994 northridge earthquake,69,71,68,71
+330,"about 10,000","10, 000",22,25,23,25
+332,San Andreas,san andreas fault,31,32,31,33
+333,6.7,6. 7 +,19,21,19,22
+334,Puente Hills,"the puente hills fault, and the elsinore fault zone",65,67,64,76
+335,USGS,usgs,66,67,66,67
+336,occurrence,earthquake occurrence,80,80,79,80
+337,San Andreas Fault,san andreas fault,30,32,30,32
+339,California Earthquake forecast,a california earthquake forecast,71,73,70,73
+340,Earthquake occurrence in California.,earthquake occurrence,79,83,79,80
+342,global,global,51,51,51,51
+343,economic,economic,58,58,58,58
+344,a city,a city,37,38,37,38
+347,2010,2010,25,25,25,25
+348,high growth rates,high growth rates,36,38,36,38
+349,10.00%,10. 0 %,51,54,51,54
+350,tech-oriented,tech - oriented,83,85,83,85
+352,2010,2010 united states census,23,23,23,26
+353,10.00%,less than the state average of 10. 0 %,54,57,48,57
+354,tech-oriented economy,tech - oriented,79,82,79,81
+355,Sacramento,sacramento,90,90,90,90
+356,Los Angeles,los angeles,12,13,12,13
+357,1.3 million,"los angeles ( at 3. 7 million people ) and san diego ( at 1. 3 million people ), both in southern california, are the two largest cities in all of california ( and two of the eight largest cities in the united states ). in southern california there are also twelve cities with more than 200, 000 residents and 34 cities over 100, 000",29,32,14,85
+359,"100,000","100, 000",86,88,86,88
+360,Riverside,riverside,124,124,124,124
+361,Los Angeles (at 3.7 million people) and San Diego (,los angeles ( at 3. 7 million people ) and san diego,13,26,13,25
+364,Los Angeles,los angeles,14,15,14,15
+365,San Diego,los angeles ( at 3. 7 million people ) and san diego,25,26,14,26
+366,1920s,1920s,19,19,19,19
+369,citrus,citrus,50,50,50,50
+370,aerospace,aerospace,68,68,68,68
+372,cattle and citrus,cattle and citrus,44,46,44,46
+373,military spending,military spending,58,59,58,59
+374,1920s,1920s,13,13,13,13
+375,business,major business districts,21,21,20,22
+376,Central business districts,central business districts,19,21,19,21
+377,South Coast Metro,"downtown los angeles, downtown san diego, downtown san bernardino, downtown bakersfield, south coast metro and downtown riverside",57,59,41,62
+378,Central business districts,"central business districts ( cbd ) include downtown los angeles, downtown san diego, downtown san bernardino, downtown bakersfield, south coast metro and downtown riverside.",19,21,19,49
+380,Central business districts,"central business districts ( cbd ) include downtown los angeles, downtown san diego, downtown san bernardino, downtown bakersfield, south coast metro and downtown riverside.",19,21,19,49
+383,San Fernando Valley,san fernando valley,73,75,73,75
+384,Los Angeles,los angeles,18,19,18,19
+385,"Downtown Burbank, Downtown Santa Monica, Downtown Glendale and Downtown Long Beach","downtown burbank, downtown santa monica, downtown glendale and downtown long beach. los angeles itself has many business districts including the downtown los angeles central business district",24,38,24,54
+386,Downtown Los Angeles central business district,"downtown burbank, downtown santa monica, downtown glendale and downtown long beach. los angeles itself has many business districts including the downtown los angeles central business district",49,54,24,54
+389,Riverside,san bernardino - riverside,27,27,24,27
+390,Hospitality Business/Financial Centre,hospitality business / financial centre,43,47,43,47
+392,"Downtown San Bernardino, Hospitality Business/Financial Centre, University Town which are in San Bernardino and Downtown Riverside.",downtown san bernardino,22,42,22,24
+393,Orange,orange county,10,10,10,11
+394,"University of California, Irvine","university of california, irvine",52,56,52,56
+396,South Coast Metro,south coast metro,36,38,36,38
+397,rapidly,rapidly,17,17,17,17
+398,Orange County,orange county,13,14,13,14
+399,South Coast Metro and Newport Center districts,the south coast metro and newport center districts,25,31,24,31
+400,"The Irvine Spectrum, West Irvine, and international corporations headquartered",international corporations,44,54,52,53
+402,Downtown San Diego,downtown san diego,12,14,12,14
+403,Northern San Diego,northern san diego and some within north county regions,75,77,75,83
+404,North County,north county,73,74,73,74
+408,"Carmel Valley, Del Mar Heights, Mission Valley, Rancho Bernardo, Sorrento Mesa, and University City","carmel valley, del mar heights, mission valley, rancho bernardo, sorrento mesa, and university city",36,56,36,56
+409,Metrolink,metrolink,23,24,23,24
+410,seven,six of the seven,15,15,12,15
+411,Six,six of the seven,12,12,12,15
+412,Orange,"orange, and san diego",47,47,47,51
+413,Downtown Los Angeles,downtown los angeles,30,32,30,32
+414,Metrolink,metrolink,24,25,24,25
+416,Port of Los Angeles,los angeles,18,21,20,21
+418,Southern,southern california is also home to the port of los angeles,14,14,14,24
+419,the Port of Los Angeles,the port of los angeles,15,19,15,19
+421,Port of Long Beach,long beach,34,37,36,37
+423,NFL,professional sports teams in southern california include teams from the nfl,26,26,16,26
+425,MLB,mlb,46,46,46,46
+426,Los Angeles Kings,los angeles kings,71,73,71,73
+427,LA Galaxy,la galaxy,77,78,77,78
+433,Chivas USA,chivas usa,30,32,30,32
+434,two,two,19,19,19,19
+435,2014,2014,19,19,19,19
+436,StubHub Center,stubhub center,44,47,44,47
+437,2018,2018,70,70,70,70
+438,two,two,24,24,24,24
+439,the LA Galaxy and Chivas USA,the la galaxy and chivas usa,30,36,30,36
+441,2018,2018,72,72,72,72
+442,College,college sports,13,13,13,14
+444,Trojans,ucla bruins and the usc trojans,27,28,22,28
+445,Pac-12,pac - 12 conference,39,41,39,42
+447,Bruins,"ucla bruins and the usc trojans both field teams in ncaa division i in the pac - 12 conference, and there is a longtime rivalry between the schools.",20,20,19,49
+448,Trojans,"ucla bruins and the usc trojans both field teams in ncaa division i in the pac - 12 conference, and there is a longtime rivalry between the schools.",24,25,19,49
+449,"Pac-12 Conference,",pac - 12 conference,40,44,40,43
+450,Rugby,rugby,11,11,11,11
+451,high school,high school,27,28,27,28
+453,Rugby,rugby,11,11,11,11
